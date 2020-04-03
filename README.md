@@ -1,17 +1,17 @@
 # Grafika
 
-HF_1
+#HF_1
 
 Az első házi feladatban egy klasszikus analóg órát kellet implementálni. Az óra számlapja és a mutatók egyaránt körök segítségével kerülnek megjelenítésre. Továbbá, az óra számlapját alkotó minden egyes kör annak megfelelően színeződik, hogy az a másodpercmutatóra illeszkedő egyenes melyik oldalára esik. (bugos)
 
-HF_2
+#HF_2
 
 A második házi feladat egy olyan program, amelyben két egymáshoz kapcsolt, egérrel valós időben mozgatható görbe kerül megvalósításra. A görbék kontrollpontjait egérkattintások segítségével lehet lerakni a képernyőre. Az egyik görbe egy Bézier-görbe, ami C1 folytonosan csatlakozik a másik, 4 pontjával megadott Hermite-ívhez.
 
 Használata:
 Bal egér kattintással a pontokat lehet lerakni, jobb egér kattintással ki lehet rajzolni a görbéket, amennyiben levan rakva 8 pont.
 
-HF_3
+#HF_3
 
 A harmadik házi feladat egy megfelelően árnyalt gömböt rajzol ki, amit különböző billentyű interakciók hatására forgatunk, illetve mozgatunk. Kétféle árnyalást használunk, amelyeket attól függően alkalmazunk a gömb különböző lapjaira, hogy az adott lap egy, a képernyő közepén húzódó függőleges szakasz melyik oldalára esik. Ehhez szükség van egyrészt a gömb paraméteres felületként való meghatározására, másrészt láthatósági vizsgálatokra és árnyalási technikákra.
 
