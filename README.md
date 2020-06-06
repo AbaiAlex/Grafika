@@ -1,5 +1,7 @@
 # Grafika
 
+*Open GL projektek*
+
 ---
 
 ## HF_1
